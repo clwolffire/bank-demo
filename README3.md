@@ -1,0 +1,1 @@
+This is another file so will see if Jenkins triggers build. I’ve just upgraded the credentials plug-in and maven plug-in to see if authentication problem goes away.
